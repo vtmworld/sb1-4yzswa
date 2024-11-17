@@ -3,7 +3,7 @@ import { Job } from '../types/job';
 export const jobs: Job[] = [
   {
     id: '1',
-    title: 'Senior Frontend Developer',
+    title: 'remote chat support',
     company: 'TechCorp Solutions',
     location: 'San Francisco, CA',
     type: 'FULL_TIME',
